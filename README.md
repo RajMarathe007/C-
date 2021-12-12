@@ -1,5 +1,6 @@
 ##   What is C++?
 
+![](https://images7.alphacoders.com/486/486291.jpg)
 ---------------------------------------------
 - C++ is a cross-platform language that can be used to create high-performance applications.
 
