@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{ 
    //Array Example
 int marks[]={78,39,45,94};
  
