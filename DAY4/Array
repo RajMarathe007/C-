@@ -12,7 +12,7 @@ int marks[]={78,39,45,94};
   mathMarks[2]=59;
   mathMarks[3]=98;
 
-  cout<<"These are maths marks"<<endl;
+  cout<<"These are maths marks"<<endl; 
   cout<<mathMarks[0]<<endl;
   cout<<mathMarks[1]<<endl;
   cout<<mathMarks[2]<<endl;
