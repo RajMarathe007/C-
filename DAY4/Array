@@ -1,4 +1,4 @@
-//It is collection of items of similar type stored in contiguous(one next to other)memory location
+//It is collection of items of similar type stored in contiguous(one next to other)memory location 
 #include<iostream>
 using namespace std;
 int main()
