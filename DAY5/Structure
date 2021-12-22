@@ -16,6 +16,6 @@ int main()
     cout<<"The value is " <<raj.cId<<endl;
     cout<<"The value is " <<raj.favChar<<endl;
     cout<<"The value is " <<raj.salary<<endl;
-    return 0;
+    return 0; 
 }
  
