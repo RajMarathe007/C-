@@ -1,0 +1,21 @@
+//It combine different datatypes (float,char,int) which you use once at a time,so union optimizes memory,it overwrites value
+#include<iostream>
+using namespace std;
+union money
+{
+    int rice;
+    char car;
+    float pounds;
+};
+
+int main()
+{
+    union money m1;
+    m1.rice=34;
+  //m1.car=s;
+  //m1.pounds=12454;
+  cout<<m1.rice;
+ //cout<<m1.car; 
+ //cout<<m1.pounds;  
+    return 0;
+}
