@@ -2,7 +2,7 @@
 using namespace std;
 struct employee
 {
-    int cId;
+    int cId; 
     char favChar;
     float salary;
 };
