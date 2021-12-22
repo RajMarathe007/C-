@@ -3,7 +3,7 @@
 using namespace std;
 union money
 {
-    int rice;
+    int rice; 
     char car;
     float pounds;
 };
