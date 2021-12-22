@@ -5,7 +5,7 @@ struct employee
     int cId;
     char favChar;
     float salary; 
-};
+}; 
 
 int main()
 {
