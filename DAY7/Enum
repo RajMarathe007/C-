@@ -1,0 +1,11 @@
+//It gives int number(starts from 0).Its easy for user to read
+#include<iostream>
+using namespace std;
+int main()
+{
+    enum meal{breakfast,lunch,dinner};
+    cout<<breakfast<<endl;
+    cout<<lunch<<endl;
+    cout<<dinner<<endl;
+    return 0;
+}
