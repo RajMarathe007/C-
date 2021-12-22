@@ -1,5 +1,5 @@
 //It combine different datatypes (float,char,int) which you use once at a time,so union optimizes memory,it overwrites value
-#include<iostream>
+#include<iostream> 
 using namespace std;
 union money
 {
