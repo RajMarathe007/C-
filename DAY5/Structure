@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+struct employee
+{
+    int cId;
+    char favChar;
+    float salary;
+};
+
+int main()
+{
+    struct employee raj;
+    raj.cId=1;
+    raj.favChar='c';
+    raj.salary=124545;
+    cout<<"The value is " <<raj.cId<<endl;
+    cout<<"The value is " <<raj.favChar<<endl;
+    cout<<"The value is " <<raj.salary<<endl;
+    return 0;
+}
