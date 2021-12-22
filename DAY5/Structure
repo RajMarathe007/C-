@@ -7,7 +7,7 @@ struct employee
     float salary;
 };
 
-int main() 
+int main()
 { 
     struct employee raj;
     raj.cId=1;
