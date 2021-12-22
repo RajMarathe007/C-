@@ -9,7 +9,7 @@ union money
 };
  
 int main()
-{
+{ 
     union money m1;
     m1.rice=34;
   //m1.car=s;
