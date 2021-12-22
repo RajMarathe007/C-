@@ -18,3 +18,4 @@ int main()
     cout<<"The value is " <<raj.salary<<endl;
     return 0;
 }
+ 
