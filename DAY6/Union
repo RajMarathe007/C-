@@ -6,7 +6,7 @@ union money
     int rice;
     char car;
     float pounds;
-};
+}; 
  
 int main() 
 { 
