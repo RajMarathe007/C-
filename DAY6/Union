@@ -7,7 +7,7 @@ union money
     char car;
     float pounds;
 };
-
+ 
 int main()
 {
     union money m1;
