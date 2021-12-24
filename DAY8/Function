@@ -27,4 +27,4 @@ int main()
   void g()
 {
   cout<<"\nHello,Good Morning";
-} 
+}
