@@ -1,4 +1,5 @@
 //It breaks program in different way and make works from them
+
 #include<iostream>
 using namespace std;
 //Function prototype:-(It gives assurity of function)
