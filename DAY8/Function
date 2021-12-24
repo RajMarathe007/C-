@@ -3,6 +3,7 @@
 using namespace std;
 //Function prototype:-(It gives assurity of function)
 //type function_name(arguments)
+
   int sum(int,int);
   void g();
 
