@@ -1,6 +1,6 @@
 //Recursion :- its a function calls itself again and again.
 #include<iostream>
-using namespace std; 
+using namespace std;
 int factorial(int n)
 {
     if (n<=1)
